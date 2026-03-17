@@ -718,7 +718,7 @@ function Contact() {
             {[
               { label:"EMAIL.ADDR",    val:"daksh.s.1808@gmail.com",      href:"mailto:daksh.s.1808@gmail.com",             color:C.cyan },
               { label:"PHONE.NUM",     val:"+91 9834606550",               href:"tel:+919834606550",                          color:C.magenta },
-              { label:"SOCIAL.NET",    val:"linkedin.com/in/daksh-sawant", href:"https://linkedin.com/in/daksh-sawant",       color:C.cyan },
+              { label:"SOCIAL.NET",    val:"linkedin.com/in/daksh-sawant", href:"https://www.linkedin.com/in/daksh-sawant-622920236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",       color:C.cyan },
               { label:"NODE.LOCATION", val:"MUMBAI // INDIA",              href:null,                                          color:C.yellow },
             ].map(item => (
               <div key={item.label} style={{ display:"flex", gap:10, alignItems:"center", padding:"8px 0", borderBottom:`1px solid ${C.border}` }}>
