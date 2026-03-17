@@ -796,7 +796,7 @@ function Contact() {
 function Footer() {
   return (
     <footer style={{ borderTop:`1px solid ${C.border}`, background:C.panel, padding:"12px clamp(14px,4vw,80px)", display:"flex", alignItems:"center", justifyContent:"space-between", flexWrap:"wrap", gap:8, position:"relative", zIndex:1 }}>
-      <div style={{ fontSize:7, letterSpacing:"0.2em", color:"rgba(0,255,240,0.2)" }}>DAKSH_SAWANT // 2025 // ALL_RIGHTS_RESERVED</div>
+      <div style={{ fontSize:7, letterSpacing:"0.2em", color:"rgba(0,255,240,0.2)" }}>DAKSH_SAWANT // 2026 // ALL_RIGHTS_RESERVED</div>
       <div style={{ display:"flex", alignItems:"center", gap:6 }}>
         <div style={{ width:5, height:5, borderRadius:"50%", background:C.green, boxShadow:`0 0 8px ${C.green}`, animation:"blink 1s infinite" }}/>
         <span style={{ fontSize:7, letterSpacing:"0.15em", color:"rgba(0,255,65,0.45)" }}>SYS_ONLINE // MUMBAI.IN</span>
