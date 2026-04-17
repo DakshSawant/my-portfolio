@@ -10,7 +10,7 @@ const C = {
   border:  "#0a2a2a",
 };
 
-const PHOTO_URL = "/pic1.jpeg";
+const PHOTO_URL = "/PP2.png";
 
 const STATS = [
   { val:"10K+",  label:"Users Served",    hex:"0x270F" },
